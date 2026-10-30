@@ -1,0 +1,6 @@
+sequence,task_id,zone,summary,effort_days,prerequisite_ids,blocker_ids,state,wave
+10,WK-ALPHA,NORTH,Lower library service counter,5,WK-BRAVO,,ACTIONABLE,1
+30,WK-CEDAR,WEST,Install west entrance handrail,2,WK-ALPHA,WK-ALPHA,BLOCKED,
+40,WK-DELTA,NORTH,Repaint tactile platform edge,8,WK-BRAVO+WK-EMBER,,ACTIONABLE,2
+60,WK-FJORD,EAST,Regrade east approach path,3,WK-ALPHA+WK-CEDAR,WK-ALPHA+WK-CEDAR,BLOCKED,
+70,WK-GROVE,WEST,Fit auditorium aisle lighting,5,WK-BRAVO+WK-EMBER,,ACTIONABLE,1
