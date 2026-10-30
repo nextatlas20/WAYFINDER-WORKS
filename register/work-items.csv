@@ -1,0 +1,8 @@
+task_id,sequence,zone,summary,status,effort_days
+WK-ALPHA,10,NORTH,Lower library service counter,OPEN,5
+WK-BRAVO,20,EAST,Survey east ramp gradient,DONE,3
+WK-CEDAR,30,WEST,Install west entrance handrail,OPEN,2
+WK-DELTA,40,NORTH,Repaint tactile platform edge,OPEN,8
+WK-EMBER,50,SOUTH,Approve courtyard drainage plan,DONE,1
+WK-FJORD,60,EAST,Regrade east approach path,OPEN,3
+WK-GROVE,70,WEST,Fit auditorium aisle lighting,OPEN,5
